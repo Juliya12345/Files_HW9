@@ -1,0 +1,8 @@
+{
+  "name": "Buddy",
+  "breed": "Golden Retriever",
+  "age": 5,
+  "weight": 30.5,
+  "vaccinated": true,
+  "hobbies": ["fetch", "swimming", "playing with toys"]
+}
